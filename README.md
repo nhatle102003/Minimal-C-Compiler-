@@ -14,7 +14,7 @@ Follow these instructions to compile and run the project:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/nhatle102003/Minimal-C-Compiler-/main)
+   git clone https://github.com/nhatle102003/Minimal-C-Compiler-/main
    cd path/to/your/cloned-repo/phase_three
    ```
 
